@@ -38,7 +38,7 @@ def calculate_conditionals(df, target, prob_target):
                 m = len(subset[subset[target] == cls])  # count(feature=value & class=cls)
                 count_c = len(df[df[target] == cls])   # count(class=cls)
 
-                # ✅ Laplace smoothing formula
+                # Laplace smoothing formula
                 prob_features = (m + 1) / (count_c + k)
 
                 # Joint probability (feature=value ∧ class=cls)
