@@ -1,0 +1,1001 @@
+ID,City,Favorite Player,Style Preference,Age,Club Support
+1,Madrid,Vinicius Jr,Counter Attack,25,Real Madrid
+2,Barcelona,Pedri,Possession,21,Barcelona
+3,Seville,Jude Bellingham,Counter Attack,28,Real Madrid
+4,Valencia,Gavi,Possession,19,Barcelona
+5,Madrid,Modrić,Counter Attack,32,Real Madrid
+6,Barcelona,Lewandowski,Possession,30,Barcelona
+7,Bilbao,Vinicius Jr,Counter Attack,24,Real Madrid
+8,Zaragoza,Pedri,Possession,22,Barcelona
+9,Madrid,Bellingham,Counter Attack,26,Real Madrid
+10,Girona,Gavi,Possession,20,Barcelona
+11,Malaga,Modrić,Counter Attack,31,Real Madrid
+12,Bilbao,Vinicius Jr,Counter Attack,23,Real Madrid
+13,Seville,Pedri,Possession,21,Barcelona
+14,Madrid,Bellingham,Counter Attack,27,Real Madrid
+15,Barcelona,Gavi,Possession,20,Barcelona
+16,Valencia,Lewandowski,Possession,29,Barcelona
+17,Toledo,Jude Bellingham,Counter Attack,26,Real Madrid
+18,Alicante,Pedri,Possession,24,Barcelona
+19,Murcia,Modrić,Counter Attack,33,Real Madrid
+20,Santander,Gavi,Possession,19,Barcelona
+21,Madrid,Vinicius Jr,Counter Attack,28,Real Madrid
+22,Barcelona,Lewandowski,Possession,30,Barcelona
+23,Granada,Pedri,Possession,23,Barcelona
+24,Seville,Gavi,Possession,22,Barcelona
+25,Pamplona,Modrić,Counter Attack,31,Real Madrid
+26,Zaragoza,Vinicius Jr,Possession,20,Real Madrid
+27,Barcelona,Gavi,Possession,21,Barcelona
+28,Madrid,Pedri,Counter Attack,27,Barcelona
+29,Valladolid,Jude Bellingham,Counter Attack,25,Real Madrid
+30,Malaga,Lewandowski,Possession,29,Barcelona
+31,Valencia,Pedri,Possession,18,Barcelona
+32,Toledo,Lewandowski,Counter Attack,22,Real Madrid
+33,Bilbao,Vinicius Jr,Counter Attack,24,Real Madrid
+34,Santander,Gavi,Possession,24,Real Madrid
+35,Murcia,Vinicius Jr,Counter Attack,24,Barcelona
+36,Malaga,Pedri,Possession,26,Barcelona
+37,Granada,Jude Bellingham,Counter Attack,33,Real Madrid
+38,Granada,Vinicius Jr,Counter Attack,18,Barcelona
+39,Bilbao,Vinicius Jr,Counter Attack,23,Real Madrid
+40,Bilbao,Lewandowski,Counter Attack,19,Real Madrid
+41,Malaga,Modrić,Possession,24,Real Madrid
+42,Zaragoza,Bellingham,Counter Attack,27,Real Madrid
+43,Bilbao,Gavi,Counter Attack,27,Barcelona
+44,Girona,Vinicius Jr,Counter Attack,30,Real Madrid
+45,Murcia,Bellingham,Counter Attack,27,Barcelona
+46,Pamplona,Lewandowski,Counter Attack,24,Real Madrid
+47,Alicante,Pedri,Counter Attack,27,Real Madrid
+48,Bilbao,Modrić,Counter Attack,21,Barcelona
+49,Valencia,Gavi,Possession,24,Barcelona
+50,Alicante,Vinicius Jr,Counter Attack,29,Barcelona
+51,Alicante,Gavi,Counter Attack,22,Barcelona
+52,Pamplona,Pedri,Counter Attack,18,Real Madrid
+53,Toledo,Bellingham,Counter Attack,23,Barcelona
+54,Girona,Bellingham,Possession,31,Barcelona
+55,Valladolid,Pedri,Counter Attack,24,Barcelona
+56,Girona,Bellingham,Possession,26,Barcelona
+57,Murcia,Modrić,Counter Attack,23,Barcelona
+58,Bilbao,Jude Bellingham,Possession,24,Barcelona
+59,Seville,Modrić,Counter Attack,18,Barcelona
+60,Malaga,Jude Bellingham,Possession,24,Real Madrid
+61,Murcia,Bellingham,Counter Attack,27,Barcelona
+62,Santander,Gavi,Counter Attack,18,Real Madrid
+63,Pamplona,Vinicius Jr,Possession,29,Barcelona
+64,Pamplona,Lewandowski,Counter Attack,22,Real Madrid
+65,Alicante,Lewandowski,Possession,29,Barcelona
+66,Bilbao,Bellingham,Possession,20,Barcelona
+67,Granada,Bellingham,Possession,29,Real Madrid
+68,Zaragoza,Jude Bellingham,Possession,24,Barcelona
+69,Murcia,Lewandowski,Counter Attack,34,Barcelona
+70,Girona,Lewandowski,Counter Attack,27,Barcelona
+71,Seville,Gavi,Possession,21,Real Madrid
+72,Barcelona,Bellingham,Possession,24,Barcelona
+73,Zaragoza,Pedri,Possession,27,Barcelona
+74,Alicante,Gavi,Possession,28,Real Madrid
+75,Bilbao,Jude Bellingham,Possession,22,Real Madrid
+76,Pamplona,Gavi,Possession,22,Barcelona
+77,Pamplona,Modrić,Counter Attack,26,Barcelona
+78,Pamplona,Jude Bellingham,Counter Attack,23,Real Madrid
+79,Alicante,Jude Bellingham,Possession,18,Barcelona
+80,Barcelona,Pedri,Counter Attack,22,Real Madrid
+81,Murcia,Jude Bellingham,Possession,26,Barcelona
+82,Madrid,Bellingham,Possession,20,Barcelona
+83,Seville,Bellingham,Possession,18,Real Madrid
+84,Bilbao,Pedri,Possession,22,Barcelona
+85,Murcia,Pedri,Counter Attack,30,Real Madrid
+86,Santander,Bellingham,Possession,24,Real Madrid
+87,Zaragoza,Vinicius Jr,Possession,23,Real Madrid
+88,Alicante,Gavi,Counter Attack,23,Barcelona
+89,Zaragoza,Vinicius Jr,Counter Attack,26,Real Madrid
+90,Zaragoza,Pedri,Possession,18,Real Madrid
+91,Granada,Gavi,Counter Attack,29,Real Madrid
+92,Murcia,Jude Bellingham,Possession,24,Barcelona
+93,Zaragoza,Vinicius Jr,Counter Attack,21,Real Madrid
+94,Murcia,Jude Bellingham,Counter Attack,20,Barcelona
+95,Malaga,Modrić,Possession,30,Real Madrid
+96,Seville,Lewandowski,Counter Attack,27,Barcelona
+97,Alicante,Lewandowski,Counter Attack,22,Barcelona
+98,Seville,Jude Bellingham,Possession,21,Barcelona
+99,Alicante,Pedri,Possession,32,Barcelona
+100,Granada,Bellingham,Possession,28,Barcelona
+101,Girona,Jude Bellingham,Counter Attack,22,Barcelona
+102,Barcelona,Lewandowski,Possession,28,Barcelona
+103,Zaragoza,Jude Bellingham,Possession,27,Real Madrid
+104,Valladolid,Lewandowski,Possession,31,Real Madrid
+105,Seville,Gavi,Counter Attack,30,Real Madrid
+106,Toledo,Vinicius Jr,Possession,30,Real Madrid
+107,Alicante,Pedri,Possession,23,Barcelona
+108,Murcia,Lewandowski,Counter Attack,25,Real Madrid
+109,Zaragoza,Modrić,Possession,23,Barcelona
+110,Alicante,Jude Bellingham,Counter Attack,27,Barcelona
+111,Bilbao,Jude Bellingham,Counter Attack,21,Barcelona
+112,Barcelona,Lewandowski,Possession,30,Real Madrid
+113,Madrid,Pedri,Counter Attack,23,Real Madrid
+114,Zaragoza,Bellingham,Counter Attack,22,Real Madrid
+115,Granada,Modrić,Counter Attack,23,Real Madrid
+116,Malaga,Gavi,Possession,24,Real Madrid
+117,Bilbao,Jude Bellingham,Possession,27,Real Madrid
+118,Alicante,Modrić,Counter Attack,27,Real Madrid
+119,Pamplona,Lewandowski,Possession,23,Real Madrid
+120,Alicante,Pedri,Counter Attack,21,Barcelona
+121,Pamplona,Vinicius Jr,Counter Attack,21,Barcelona
+122,Bilbao,Jude Bellingham,Possession,38,Barcelona
+123,Barcelona,Vinicius Jr,Possession,18,Real Madrid
+124,Madrid,Vinicius Jr,Counter Attack,25,Barcelona
+125,Alicante,Gavi,Counter Attack,28,Real Madrid
+126,Murcia,Pedri,Possession,19,Real Madrid
+127,Bilbao,Vinicius Jr,Counter Attack,31,Barcelona
+128,Valladolid,Pedri,Counter Attack,27,Real Madrid
+129,Malaga,Bellingham,Counter Attack,18,Real Madrid
+130,Murcia,Bellingham,Counter Attack,20,Real Madrid
+131,Murcia,Gavi,Possession,25,Barcelona
+132,Malaga,Gavi,Possession,25,Real Madrid
+133,Bilbao,Gavi,Possession,25,Barcelona
+134,Bilbao,Lewandowski,Counter Attack,29,Real Madrid
+135,Santander,Vinicius Jr,Possession,27,Barcelona
+136,Valencia,Vinicius Jr,Possession,21,Barcelona
+137,Bilbao,Jude Bellingham,Possession,24,Barcelona
+138,Valencia,Jude Bellingham,Possession,23,Real Madrid
+139,Barcelona,Gavi,Counter Attack,20,Real Madrid
+140,Barcelona,Vinicius Jr,Counter Attack,25,Barcelona
+141,Santander,Modrić,Possession,25,Real Madrid
+142,Bilbao,Jude Bellingham,Counter Attack,19,Real Madrid
+143,Pamplona,Gavi,Possession,26,Real Madrid
+144,Murcia,Modrić,Possession,21,Real Madrid
+145,Malaga,Modrić,Counter Attack,27,Real Madrid
+146,Malaga,Jude Bellingham,Counter Attack,23,Barcelona
+147,Girona,Modrić,Possession,28,Real Madrid
+148,Murcia,Vinicius Jr,Possession,28,Real Madrid
+149,Valladolid,Jude Bellingham,Possession,23,Barcelona
+150,Pamplona,Pedri,Possession,28,Real Madrid
+151,Zaragoza,Modrić,Possession,25,Barcelona
+152,Granada,Vinicius Jr,Counter Attack,31,Real Madrid
+153,Granada,Jude Bellingham,Possession,23,Barcelona
+154,Valladolid,Bellingham,Possession,23,Real Madrid
+155,Alicante,Jude Bellingham,Counter Attack,18,Barcelona
+156,Valladolid,Lewandowski,Counter Attack,23,Barcelona
+157,Toledo,Lewandowski,Counter Attack,27,Barcelona
+158,Barcelona,Pedri,Counter Attack,21,Real Madrid
+159,Bilbao,Vinicius Jr,Possession,26,Real Madrid
+160,Girona,Pedri,Counter Attack,32,Real Madrid
+161,Seville,Bellingham,Possession,29,Real Madrid
+162,Malaga,Bellingham,Possession,25,Barcelona
+163,Barcelona,Pedri,Possession,25,Barcelona
+164,Toledo,Gavi,Possession,23,Barcelona
+165,Bilbao,Gavi,Counter Attack,24,Barcelona
+166,Alicante,Bellingham,Possession,26,Real Madrid
+167,Pamplona,Lewandowski,Counter Attack,25,Real Madrid
+168,Alicante,Jude Bellingham,Counter Attack,18,Barcelona
+169,Barcelona,Jude Bellingham,Counter Attack,28,Real Madrid
+170,Valladolid,Jude Bellingham,Counter Attack,32,Real Madrid
+171,Barcelona,Lewandowski,Possession,25,Real Madrid
+172,Alicante,Modrić,Possession,26,Barcelona
+173,Barcelona,Vinicius Jr,Possession,18,Real Madrid
+174,Zaragoza,Modrić,Possession,29,Real Madrid
+175,Murcia,Jude Bellingham,Possession,20,Real Madrid
+176,Granada,Gavi,Possession,18,Barcelona
+177,Pamplona,Jude Bellingham,Possession,24,Barcelona
+178,Pamplona,Lewandowski,Possession,26,Barcelona
+179,Girona,Lewandowski,Counter Attack,21,Real Madrid
+180,Zaragoza,Jude Bellingham,Counter Attack,26,Barcelona
+181,Girona,Lewandowski,Possession,32,Barcelona
+182,Valladolid,Jude Bellingham,Counter Attack,26,Real Madrid
+183,Alicante,Modrić,Possession,18,Real Madrid
+184,Valencia,Bellingham,Possession,20,Real Madrid
+185,Toledo,Jude Bellingham,Counter Attack,20,Barcelona
+186,Seville,Pedri,Counter Attack,18,Real Madrid
+187,Valencia,Lewandowski,Possession,21,Barcelona
+188,Bilbao,Pedri,Counter Attack,27,Real Madrid
+189,Alicante,Modrić,Counter Attack,24,Real Madrid
+190,Santander,Modrić,Possession,21,Real Madrid
+191,Granada,Bellingham,Possession,26,Real Madrid
+192,Madrid,Jude Bellingham,Possession,24,Barcelona
+193,Granada,Vinicius Jr,Counter Attack,18,Real Madrid
+194,Malaga,Jude Bellingham,Counter Attack,20,Barcelona
+195,Alicante,Pedri,Possession,25,Barcelona
+196,Malaga,Modrić,Possession,23,Barcelona
+197,Murcia,Modrić,Counter Attack,19,Barcelona
+198,Bilbao,Vinicius Jr,Possession,28,Barcelona
+199,Alicante,Lewandowski,Possession,18,Real Madrid
+200,Girona,Pedri,Counter Attack,23,Barcelona
+201,Madrid,Jude Bellingham,Possession,27,Barcelona
+202,Seville,Lewandowski,Counter Attack,21,Real Madrid
+203,Santander,Lewandowski,Counter Attack,30,Real Madrid
+204,Valladolid,Pedri,Counter Attack,26,Barcelona
+205,Pamplona,Jude Bellingham,Possession,21,Real Madrid
+206,Valencia,Bellingham,Counter Attack,22,Real Madrid
+207,Pamplona,Vinicius Jr,Counter Attack,24,Barcelona
+208,Malaga,Lewandowski,Counter Attack,21,Barcelona
+209,Murcia,Gavi,Possession,25,Barcelona
+210,Valladolid,Gavi,Possession,29,Barcelona
+211,Malaga,Pedri,Possession,25,Real Madrid
+212,Madrid,Modrić,Counter Attack,21,Barcelona
+213,Murcia,Lewandowski,Possession,24,Real Madrid
+214,Alicante,Gavi,Possession,24,Real Madrid
+215,Madrid,Modrić,Possession,18,Real Madrid
+216,Pamplona,Jude Bellingham,Counter Attack,27,Real Madrid
+217,Malaga,Jude Bellingham,Counter Attack,21,Real Madrid
+218,Seville,Pedri,Counter Attack,18,Real Madrid
+219,Bilbao,Jude Bellingham,Possession,31,Real Madrid
+220,Madrid,Bellingham,Counter Attack,21,Barcelona
+221,Pamplona,Jude Bellingham,Possession,26,Real Madrid
+222,Pamplona,Jude Bellingham,Counter Attack,23,Real Madrid
+223,Alicante,Bellingham,Possession,22,Barcelona
+224,Valladolid,Jude Bellingham,Counter Attack,27,Real Madrid
+225,Valladolid,Vinicius Jr,Possession,18,Barcelona
+226,Santander,Lewandowski,Counter Attack,22,Real Madrid
+227,Malaga,Vinicius Jr,Possession,31,Barcelona
+228,Barcelona,Gavi,Possession,22,Barcelona
+229,Murcia,Modrić,Possession,24,Real Madrid
+230,Valencia,Vinicius Jr,Counter Attack,24,Real Madrid
+231,Malaga,Lewandowski,Possession,24,Real Madrid
+232,Barcelona,Pedri,Possession,22,Real Madrid
+233,Girona,Modrić,Possession,28,Real Madrid
+234,Granada,Gavi,Possession,23,Barcelona
+235,Santander,Jude Bellingham,Possession,20,Barcelona
+236,Girona,Jude Bellingham,Counter Attack,20,Barcelona
+237,Alicante,Lewandowski,Counter Attack,26,Barcelona
+238,Zaragoza,Jude Bellingham,Possession,22,Real Madrid
+239,Granada,Vinicius Jr,Possession,29,Real Madrid
+240,Santander,Pedri,Possession,32,Barcelona
+241,Pamplona,Modrić,Possession,21,Real Madrid
+242,Barcelona,Gavi,Counter Attack,31,Real Madrid
+243,Santander,Vinicius Jr,Counter Attack,27,Real Madrid
+244,Bilbao,Gavi,Possession,24,Barcelona
+245,Zaragoza,Gavi,Counter Attack,22,Real Madrid
+246,Murcia,Pedri,Possession,23,Barcelona
+247,Barcelona,Pedri,Counter Attack,25,Real Madrid
+248,Barcelona,Gavi,Counter Attack,29,Real Madrid
+249,Zaragoza,Bellingham,Possession,18,Barcelona
+250,Valladolid,Pedri,Possession,21,Real Madrid
+251,Zaragoza,Vinicius Jr,Possession,18,Real Madrid
+252,Alicante,Jude Bellingham,Possession,20,Real Madrid
+253,Barcelona,Jude Bellingham,Counter Attack,32,Real Madrid
+254,Seville,Gavi,Counter Attack,26,Barcelona
+255,Murcia,Lewandowski,Counter Attack,26,Real Madrid
+256,Alicante,Vinicius Jr,Counter Attack,24,Real Madrid
+257,Murcia,Lewandowski,Possession,29,Barcelona
+258,Alicante,Gavi,Possession,23,Real Madrid
+259,Murcia,Bellingham,Counter Attack,20,Barcelona
+260,Santander,Modrić,Possession,28,Real Madrid
+261,Granada,Gavi,Counter Attack,37,Barcelona
+262,Malaga,Modrić,Possession,22,Barcelona
+263,Barcelona,Bellingham,Counter Attack,24,Barcelona
+264,Valladolid,Vinicius Jr,Counter Attack,24,Barcelona
+265,Toledo,Lewandowski,Counter Attack,24,Real Madrid
+266,Pamplona,Pedri,Counter Attack,24,Real Madrid
+267,Valladolid,Lewandowski,Counter Attack,25,Real Madrid
+268,Bilbao,Lewandowski,Counter Attack,26,Real Madrid
+269,Madrid,Jude Bellingham,Counter Attack,28,Real Madrid
+270,Murcia,Lewandowski,Possession,20,Barcelona
+271,Girona,Pedri,Possession,30,Barcelona
+272,Valladolid,Gavi,Counter Attack,23,Real Madrid
+273,Santander,Vinicius Jr,Counter Attack,24,Real Madrid
+274,Valladolid,Pedri,Counter Attack,27,Real Madrid
+275,Alicante,Modrić,Counter Attack,20,Barcelona
+276,Madrid,Pedri,Counter Attack,32,Real Madrid
+277,Pamplona,Modrić,Possession,34,Real Madrid
+278,Granada,Gavi,Possession,27,Barcelona
+279,Zaragoza,Bellingham,Possession,24,Barcelona
+280,Bilbao,Bellingham,Possession,22,Barcelona
+281,Girona,Lewandowski,Counter Attack,26,Barcelona
+282,Granada,Pedri,Counter Attack,20,Real Madrid
+283,Bilbao,Gavi,Counter Attack,21,Barcelona
+284,Barcelona,Jude Bellingham,Possession,25,Real Madrid
+285,Toledo,Jude Bellingham,Possession,30,Real Madrid
+286,Toledo,Modrić,Counter Attack,23,Barcelona
+287,Granada,Bellingham,Counter Attack,22,Barcelona
+288,Valladolid,Modrić,Possession,19,Barcelona
+289,Valladolid,Jude Bellingham,Counter Attack,23,Real Madrid
+290,Granada,Modrić,Counter Attack,22,Barcelona
+291,Alicante,Bellingham,Possession,21,Real Madrid
+292,Santander,Jude Bellingham,Possession,18,Real Madrid
+293,Girona,Pedri,Counter Attack,35,Real Madrid
+294,Malaga,Gavi,Possession,24,Real Madrid
+295,Bilbao,Bellingham,Possession,18,Barcelona
+296,Zaragoza,Pedri,Possession,32,Barcelona
+297,Seville,Pedri,Possession,25,Real Madrid
+298,Malaga,Bellingham,Possession,26,Barcelona
+299,Toledo,Jude Bellingham,Possession,21,Real Madrid
+300,Toledo,Bellingham,Possession,22,Real Madrid
+301,Madrid,Pedri,Counter Attack,20,Real Madrid
+302,Granada,Jude Bellingham,Possession,29,Real Madrid
+303,Santander,Vinicius Jr,Possession,27,Real Madrid
+304,Granada,Modrić,Possession,28,Real Madrid
+305,Seville,Lewandowski,Possession,21,Barcelona
+306,Madrid,Lewandowski,Possession,27,Real Madrid
+307,Girona,Gavi,Counter Attack,20,Barcelona
+308,Madrid,Pedri,Counter Attack,27,Barcelona
+309,Zaragoza,Bellingham,Counter Attack,28,Barcelona
+310,Girona,Gavi,Counter Attack,33,Barcelona
+311,Santander,Lewandowski,Counter Attack,30,Real Madrid
+312,Madrid,Modrić,Counter Attack,26,Real Madrid
+313,Santander,Modrić,Counter Attack,23,Real Madrid
+314,Barcelona,Lewandowski,Counter Attack,24,Real Madrid
+315,Santander,Pedri,Possession,18,Real Madrid
+316,Granada,Modrić,Counter Attack,21,Barcelona
+317,Santander,Gavi,Possession,21,Real Madrid
+318,Seville,Gavi,Counter Attack,26,Real Madrid
+319,Barcelona,Gavi,Counter Attack,27,Real Madrid
+320,Valencia,Gavi,Counter Attack,21,Barcelona
+321,Zaragoza,Modrić,Counter Attack,29,Real Madrid
+322,Santander,Pedri,Counter Attack,23,Real Madrid
+323,Seville,Lewandowski,Counter Attack,26,Real Madrid
+324,Granada,Pedri,Possession,29,Real Madrid
+325,Zaragoza,Bellingham,Counter Attack,27,Barcelona
+326,Madrid,Jude Bellingham,Possession,28,Real Madrid
+327,Murcia,Vinicius Jr,Possession,31,Real Madrid
+328,Madrid,Vinicius Jr,Counter Attack,22,Real Madrid
+329,Zaragoza,Vinicius Jr,Counter Attack,25,Barcelona
+330,Santander,Gavi,Possession,23,Barcelona
+331,Zaragoza,Bellingham,Counter Attack,30,Real Madrid
+332,Madrid,Gavi,Counter Attack,32,Barcelona
+333,Bilbao,Gavi,Counter Attack,27,Real Madrid
+334,Santander,Jude Bellingham,Counter Attack,27,Real Madrid
+335,Toledo,Vinicius Jr,Possession,31,Barcelona
+336,Zaragoza,Jude Bellingham,Possession,18,Barcelona
+337,Girona,Pedri,Counter Attack,20,Real Madrid
+338,Valencia,Modrić,Counter Attack,18,Real Madrid
+339,Pamplona,Jude Bellingham,Possession,25,Barcelona
+340,Bilbao,Modrić,Possession,29,Real Madrid
+341,Toledo,Lewandowski,Possession,18,Barcelona
+342,Valladolid,Gavi,Counter Attack,29,Real Madrid
+343,Bilbao,Jude Bellingham,Counter Attack,28,Real Madrid
+344,Seville,Lewandowski,Possession,25,Barcelona
+345,Madrid,Gavi,Counter Attack,18,Barcelona
+346,Pamplona,Lewandowski,Counter Attack,21,Real Madrid
+347,Alicante,Modrić,Possession,23,Real Madrid
+348,Granada,Modrić,Counter Attack,22,Barcelona
+349,Seville,Jude Bellingham,Possession,30,Real Madrid
+350,Valladolid,Gavi,Possession,30,Barcelona
+351,Girona,Bellingham,Counter Attack,34,Barcelona
+352,Murcia,Gavi,Counter Attack,33,Real Madrid
+353,Alicante,Modrić,Counter Attack,29,Real Madrid
+354,Bilbao,Vinicius Jr,Counter Attack,32,Barcelona
+355,Murcia,Gavi,Counter Attack,24,Barcelona
+356,Bilbao,Jude Bellingham,Counter Attack,27,Barcelona
+357,Girona,Lewandowski,Counter Attack,22,Real Madrid
+358,Alicante,Modrić,Counter Attack,30,Barcelona
+359,Valencia,Modrić,Counter Attack,23,Barcelona
+360,Granada,Lewandowski,Possession,27,Real Madrid
+361,Granada,Gavi,Possession,27,Real Madrid
+362,Madrid,Pedri,Counter Attack,22,Real Madrid
+363,Seville,Jude Bellingham,Possession,20,Real Madrid
+364,Malaga,Pedri,Counter Attack,25,Barcelona
+365,Murcia,Bellingham,Possession,22,Real Madrid
+366,Toledo,Jude Bellingham,Counter Attack,31,Barcelona
+367,Murcia,Lewandowski,Possession,23,Real Madrid
+368,Valencia,Gavi,Counter Attack,24,Barcelona
+369,Girona,Vinicius Jr,Counter Attack,23,Barcelona
+370,Valladolid,Modrić,Possession,23,Real Madrid
+371,Zaragoza,Lewandowski,Counter Attack,23,Real Madrid
+372,Valencia,Pedri,Possession,23,Barcelona
+373,Valladolid,Lewandowski,Possession,29,Barcelona
+374,Granada,Modrić,Counter Attack,27,Barcelona
+375,Santander,Jude Bellingham,Counter Attack,29,Barcelona
+376,Alicante,Pedri,Counter Attack,19,Real Madrid
+377,Santander,Jude Bellingham,Counter Attack,27,Real Madrid
+378,Barcelona,Bellingham,Counter Attack,23,Barcelona
+379,Pamplona,Vinicius Jr,Possession,18,Barcelona
+380,Murcia,Vinicius Jr,Possession,23,Real Madrid
+381,Alicante,Lewandowski,Counter Attack,23,Barcelona
+382,Valladolid,Jude Bellingham,Counter Attack,22,Barcelona
+383,Madrid,Pedri,Counter Attack,29,Real Madrid
+384,Bilbao,Pedri,Counter Attack,19,Barcelona
+385,Santander,Modrić,Counter Attack,18,Real Madrid
+386,Toledo,Modrić,Counter Attack,23,Barcelona
+387,Valladolid,Pedri,Counter Attack,26,Barcelona
+388,Granada,Gavi,Counter Attack,19,Real Madrid
+389,Bilbao,Vinicius Jr,Possession,18,Barcelona
+390,Valencia,Modrić,Possession,30,Barcelona
+391,Bilbao,Bellingham,Counter Attack,22,Barcelona
+392,Pamplona,Modrić,Possession,25,Real Madrid
+393,Alicante,Gavi,Counter Attack,33,Real Madrid
+394,Barcelona,Pedri,Possession,23,Real Madrid
+395,Granada,Lewandowski,Counter Attack,24,Barcelona
+396,Granada,Bellingham,Possession,26,Barcelona
+397,Alicante,Pedri,Counter Attack,20,Barcelona
+398,Santander,Gavi,Possession,23,Barcelona
+399,Zaragoza,Gavi,Possession,23,Barcelona
+400,Zaragoza,Pedri,Counter Attack,18,Real Madrid
+401,Pamplona,Lewandowski,Possession,21,Barcelona
+402,Alicante,Bellingham,Possession,21,Barcelona
+403,Alicante,Lewandowski,Possession,20,Real Madrid
+404,Valencia,Pedri,Possession,35,Barcelona
+405,Bilbao,Vinicius Jr,Counter Attack,34,Real Madrid
+406,Seville,Modrić,Possession,20,Barcelona
+407,Zaragoza,Bellingham,Possession,28,Barcelona
+408,Zaragoza,Bellingham,Possession,19,Real Madrid
+409,Bilbao,Gavi,Possession,24,Barcelona
+410,Girona,Modrić,Counter Attack,20,Real Madrid
+411,Malaga,Vinicius Jr,Possession,19,Barcelona
+412,Valladolid,Pedri,Possession,22,Real Madrid
+413,Granada,Pedri,Possession,24,Real Madrid
+414,Santander,Bellingham,Counter Attack,26,Real Madrid
+415,Zaragoza,Modrić,Counter Attack,18,Real Madrid
+416,Seville,Pedri,Possession,29,Real Madrid
+417,Zaragoza,Pedri,Possession,20,Real Madrid
+418,Malaga,Bellingham,Counter Attack,20,Real Madrid
+419,Toledo,Gavi,Possession,26,Barcelona
+420,Barcelona,Jude Bellingham,Possession,18,Barcelona
+421,Barcelona,Jude Bellingham,Counter Attack,29,Real Madrid
+422,Zaragoza,Pedri,Possession,22,Real Madrid
+423,Pamplona,Pedri,Counter Attack,23,Real Madrid
+424,Zaragoza,Gavi,Counter Attack,28,Barcelona
+425,Murcia,Vinicius Jr,Counter Attack,18,Real Madrid
+426,Madrid,Pedri,Possession,26,Barcelona
+427,Girona,Lewandowski,Possession,23,Barcelona
+428,Valladolid,Lewandowski,Counter Attack,23,Barcelona
+429,Murcia,Jude Bellingham,Possession,18,Barcelona
+430,Seville,Jude Bellingham,Possession,23,Real Madrid
+431,Pamplona,Jude Bellingham,Counter Attack,26,Real Madrid
+432,Valladolid,Vinicius Jr,Possession,30,Real Madrid
+433,Toledo,Gavi,Possession,26,Barcelona
+434,Zaragoza,Bellingham,Counter Attack,28,Barcelona
+435,Murcia,Jude Bellingham,Possession,23,Real Madrid
+436,Malaga,Bellingham,Possession,25,Barcelona
+437,Toledo,Lewandowski,Possession,24,Barcelona
+438,Girona,Pedri,Counter Attack,30,Real Madrid
+439,Toledo,Jude Bellingham,Counter Attack,21,Barcelona
+440,Valencia,Lewandowski,Possession,34,Real Madrid
+441,Bilbao,Bellingham,Possession,22,Real Madrid
+442,Santander,Jude Bellingham,Counter Attack,22,Real Madrid
+443,Valencia,Modrić,Counter Attack,26,Real Madrid
+444,Pamplona,Vinicius Jr,Possession,31,Barcelona
+445,Santander,Pedri,Possession,25,Barcelona
+446,Malaga,Bellingham,Possession,19,Real Madrid
+447,Valladolid,Modrić,Counter Attack,22,Barcelona
+448,Murcia,Pedri,Possession,26,Barcelona
+449,Granada,Pedri,Counter Attack,25,Barcelona
+450,Toledo,Gavi,Possession,29,Real Madrid
+451,Granada,Jude Bellingham,Counter Attack,29,Real Madrid
+452,Granada,Lewandowski,Possession,28,Barcelona
+453,Murcia,Pedri,Counter Attack,26,Barcelona
+454,Toledo,Lewandowski,Possession,30,Barcelona
+455,Santander,Gavi,Possession,27,Barcelona
+456,Toledo,Bellingham,Possession,28,Barcelona
+457,Santander,Modrić,Counter Attack,25,Real Madrid
+458,Madrid,Gavi,Counter Attack,23,Real Madrid
+459,Valencia,Modrić,Possession,26,Real Madrid
+460,Santander,Pedri,Counter Attack,23,Barcelona
+461,Zaragoza,Vinicius Jr,Possession,29,Barcelona
+462,Valladolid,Vinicius Jr,Counter Attack,23,Barcelona
+463,Zaragoza,Vinicius Jr,Counter Attack,21,Real Madrid
+464,Girona,Pedri,Possession,24,Real Madrid
+465,Seville,Gavi,Possession,26,Barcelona
+466,Seville,Jude Bellingham,Possession,28,Real Madrid
+467,Pamplona,Pedri,Counter Attack,27,Real Madrid
+468,Malaga,Gavi,Counter Attack,23,Barcelona
+469,Girona,Gavi,Counter Attack,25,Real Madrid
+470,Pamplona,Vinicius Jr,Counter Attack,32,Barcelona
+471,Valladolid,Bellingham,Possession,21,Real Madrid
+472,Girona,Modrić,Counter Attack,27,Barcelona
+473,Zaragoza,Lewandowski,Possession,23,Real Madrid
+474,Pamplona,Pedri,Possession,25,Real Madrid
+475,Pamplona,Gavi,Counter Attack,29,Barcelona
+476,Barcelona,Vinicius Jr,Possession,32,Real Madrid
+477,Valladolid,Vinicius Jr,Possession,26,Barcelona
+478,Santander,Gavi,Counter Attack,30,Barcelona
+479,Pamplona,Lewandowski,Counter Attack,23,Barcelona
+480,Toledo,Modrić,Counter Attack,31,Real Madrid
+481,Valencia,Modrić,Possession,24,Real Madrid
+482,Zaragoza,Lewandowski,Counter Attack,18,Real Madrid
+483,Zaragoza,Pedri,Counter Attack,28,Real Madrid
+484,Valencia,Modrić,Counter Attack,28,Barcelona
+485,Granada,Vinicius Jr,Possession,29,Barcelona
+486,Valencia,Lewandowski,Counter Attack,19,Barcelona
+487,Valencia,Jude Bellingham,Possession,21,Barcelona
+488,Bilbao,Modrić,Counter Attack,24,Real Madrid
+489,Alicante,Bellingham,Counter Attack,19,Barcelona
+490,Santander,Jude Bellingham,Possession,30,Barcelona
+491,Girona,Jude Bellingham,Possession,28,Real Madrid
+492,Valencia,Modrić,Counter Attack,27,Real Madrid
+493,Madrid,Vinicius Jr,Possession,22,Real Madrid
+494,Pamplona,Bellingham,Possession,19,Real Madrid
+495,Granada,Jude Bellingham,Possession,18,Real Madrid
+496,Seville,Lewandowski,Counter Attack,19,Real Madrid
+497,Pamplona,Gavi,Possession,24,Real Madrid
+498,Girona,Bellingham,Possession,24,Real Madrid
+499,Seville,Modrić,Possession,32,Barcelona
+500,Madrid,Jude Bellingham,Possession,18,Barcelona
+501,Seville,Lewandowski,Possession,28,Real Madrid
+502,Seville,Vinicius Jr,Possession,21,Real Madrid
+503,Madrid,Jude Bellingham,Possession,22,Barcelona
+504,Girona,Modrić,Counter Attack,21,Barcelona
+505,Zaragoza,Modrić,Possession,27,Barcelona
+506,Valencia,Bellingham,Counter Attack,22,Real Madrid
+507,Santander,Jude Bellingham,Counter Attack,25,Real Madrid
+508,Girona,Bellingham,Counter Attack,25,Real Madrid
+509,Malaga,Vinicius Jr,Counter Attack,24,Barcelona
+510,Granada,Lewandowski,Possession,20,Real Madrid
+511,Zaragoza,Jude Bellingham,Possession,25,Barcelona
+512,Toledo,Jude Bellingham,Counter Attack,25,Barcelona
+513,Santander,Jude Bellingham,Possession,24,Barcelona
+514,Barcelona,Modrić,Possession,29,Barcelona
+515,Valladolid,Pedri,Possession,19,Barcelona
+516,Toledo,Bellingham,Possession,26,Barcelona
+517,Seville,Lewandowski,Counter Attack,34,Real Madrid
+518,Valencia,Jude Bellingham,Counter Attack,28,Barcelona
+519,Bilbao,Jude Bellingham,Possession,27,Real Madrid
+520,Barcelona,Modrić,Counter Attack,28,Real Madrid
+521,Zaragoza,Lewandowski,Counter Attack,18,Real Madrid
+522,Pamplona,Vinicius Jr,Counter Attack,30,Real Madrid
+523,Toledo,Vinicius Jr,Possession,24,Barcelona
+524,Valencia,Lewandowski,Counter Attack,19,Real Madrid
+525,Bilbao,Modrić,Counter Attack,22,Real Madrid
+526,Toledo,Gavi,Counter Attack,24,Barcelona
+527,Valladolid,Modrić,Counter Attack,25,Barcelona
+528,Toledo,Bellingham,Counter Attack,18,Barcelona
+529,Girona,Bellingham,Possession,24,Real Madrid
+530,Toledo,Gavi,Counter Attack,26,Real Madrid
+531,Santander,Bellingham,Possession,25,Barcelona
+532,Pamplona,Vinicius Jr,Counter Attack,25,Real Madrid
+533,Granada,Lewandowski,Counter Attack,27,Barcelona
+534,Toledo,Gavi,Possession,21,Barcelona
+535,Murcia,Bellingham,Counter Attack,18,Real Madrid
+536,Alicante,Pedri,Possession,22,Real Madrid
+537,Murcia,Modrić,Counter Attack,23,Real Madrid
+538,Bilbao,Gavi,Counter Attack,22,Real Madrid
+539,Barcelona,Pedri,Counter Attack,30,Barcelona
+540,Valladolid,Bellingham,Counter Attack,25,Real Madrid
+541,Valencia,Jude Bellingham,Counter Attack,27,Real Madrid
+542,Valladolid,Bellingham,Counter Attack,32,Real Madrid
+543,Murcia,Jude Bellingham,Possession,20,Barcelona
+544,Pamplona,Vinicius Jr,Possession,24,Barcelona
+545,Valencia,Vinicius Jr,Counter Attack,31,Barcelona
+546,Barcelona,Jude Bellingham,Possession,24,Real Madrid
+547,Murcia,Gavi,Counter Attack,34,Real Madrid
+548,Seville,Lewandowski,Possession,26,Barcelona
+549,Alicante,Pedri,Possession,24,Real Madrid
+550,Murcia,Lewandowski,Possession,31,Real Madrid
+551,Valladolid,Pedri,Possession,25,Barcelona
+552,Santander,Bellingham,Counter Attack,23,Barcelona
+553,Valladolid,Lewandowski,Counter Attack,20,Barcelona
+554,Toledo,Bellingham,Counter Attack,31,Real Madrid
+555,Girona,Pedri,Possession,32,Barcelona
+556,Barcelona,Gavi,Possession,23,Real Madrid
+557,Pamplona,Modrić,Counter Attack,26,Barcelona
+558,Seville,Vinicius Jr,Possession,26,Real Madrid
+559,Valladolid,Gavi,Counter Attack,20,Barcelona
+560,Pamplona,Pedri,Possession,18,Real Madrid
+561,Granada,Jude Bellingham,Counter Attack,28,Barcelona
+562,Madrid,Gavi,Possession,22,Barcelona
+563,Pamplona,Pedri,Counter Attack,29,Barcelona
+564,Zaragoza,Vinicius Jr,Possession,27,Barcelona
+565,Granada,Pedri,Counter Attack,31,Real Madrid
+566,Girona,Lewandowski,Possession,31,Real Madrid
+567,Alicante,Bellingham,Counter Attack,20,Barcelona
+568,Murcia,Jude Bellingham,Counter Attack,27,Barcelona
+569,Seville,Gavi,Counter Attack,29,Barcelona
+570,Malaga,Gavi,Possession,34,Barcelona
+571,Madrid,Gavi,Counter Attack,21,Real Madrid
+572,Valencia,Lewandowski,Counter Attack,25,Barcelona
+573,Madrid,Gavi,Possession,25,Barcelona
+574,Pamplona,Lewandowski,Possession,25,Real Madrid
+575,Madrid,Jude Bellingham,Counter Attack,20,Real Madrid
+576,Girona,Jude Bellingham,Counter Attack,30,Real Madrid
+577,Madrid,Bellingham,Counter Attack,19,Real Madrid
+578,Alicante,Jude Bellingham,Possession,21,Real Madrid
+579,Barcelona,Bellingham,Counter Attack,23,Barcelona
+580,Malaga,Jude Bellingham,Counter Attack,28,Real Madrid
+581,Zaragoza,Jude Bellingham,Counter Attack,26,Barcelona
+582,Girona,Bellingham,Counter Attack,23,Barcelona
+583,Alicante,Pedri,Counter Attack,29,Real Madrid
+584,Girona,Jude Bellingham,Possession,18,Barcelona
+585,Valencia,Jude Bellingham,Possession,22,Real Madrid
+586,Alicante,Lewandowski,Possession,25,Real Madrid
+587,Malaga,Pedri,Possession,31,Real Madrid
+588,Seville,Lewandowski,Counter Attack,28,Real Madrid
+589,Santander,Jude Bellingham,Counter Attack,28,Barcelona
+590,Barcelona,Lewandowski,Possession,29,Barcelona
+591,Malaga,Gavi,Possession,23,Barcelona
+592,Pamplona,Jude Bellingham,Counter Attack,30,Barcelona
+593,Zaragoza,Modrić,Possession,21,Real Madrid
+594,Barcelona,Modrić,Counter Attack,29,Barcelona
+595,Toledo,Pedri,Possession,25,Real Madrid
+596,Girona,Gavi,Counter Attack,22,Barcelona
+597,Girona,Jude Bellingham,Counter Attack,24,Real Madrid
+598,Zaragoza,Jude Bellingham,Counter Attack,22,Real Madrid
+599,Seville,Pedri,Counter Attack,35,Real Madrid
+600,Seville,Gavi,Counter Attack,33,Real Madrid
+601,Granada,Modrić,Counter Attack,33,Barcelona
+602,Seville,Lewandowski,Counter Attack,31,Real Madrid
+603,Malaga,Gavi,Possession,22,Real Madrid
+604,Seville,Vinicius Jr,Possession,25,Real Madrid
+605,Malaga,Bellingham,Possession,31,Real Madrid
+606,Santander,Lewandowski,Counter Attack,22,Barcelona
+607,Santander,Jude Bellingham,Counter Attack,22,Real Madrid
+608,Girona,Vinicius Jr,Possession,29,Barcelona
+609,Alicante,Gavi,Possession,19,Barcelona
+610,Zaragoza,Jude Bellingham,Possession,18,Real Madrid
+611,Malaga,Lewandowski,Counter Attack,27,Real Madrid
+612,Seville,Jude Bellingham,Counter Attack,26,Barcelona
+613,Seville,Vinicius Jr,Possession,25,Real Madrid
+614,Madrid,Gavi,Possession,20,Real Madrid
+615,Valladolid,Gavi,Possession,18,Barcelona
+616,Madrid,Vinicius Jr,Counter Attack,38,Barcelona
+617,Alicante,Bellingham,Possession,30,Barcelona
+618,Malaga,Lewandowski,Counter Attack,26,Barcelona
+619,Girona,Jude Bellingham,Counter Attack,25,Real Madrid
+620,Granada,Modrić,Counter Attack,22,Barcelona
+621,Madrid,Jude Bellingham,Possession,20,Barcelona
+622,Pamplona,Lewandowski,Counter Attack,24,Barcelona
+623,Girona,Bellingham,Possession,18,Barcelona
+624,Valencia,Lewandowski,Possession,25,Real Madrid
+625,Girona,Jude Bellingham,Possession,24,Real Madrid
+626,Seville,Vinicius Jr,Counter Attack,35,Real Madrid
+627,Bilbao,Modrić,Possession,25,Real Madrid
+628,Malaga,Gavi,Possession,29,Real Madrid
+629,Barcelona,Jude Bellingham,Counter Attack,20,Barcelona
+630,Zaragoza,Lewandowski,Counter Attack,24,Real Madrid
+631,Santander,Jude Bellingham,Counter Attack,30,Barcelona
+632,Pamplona,Bellingham,Possession,31,Barcelona
+633,Girona,Lewandowski,Possession,21,Barcelona
+634,Malaga,Vinicius Jr,Counter Attack,34,Real Madrid
+635,Valladolid,Gavi,Possession,24,Real Madrid
+636,Murcia,Jude Bellingham,Counter Attack,18,Barcelona
+637,Granada,Pedri,Possession,27,Real Madrid
+638,Seville,Modrić,Possession,30,Barcelona
+639,Valencia,Modrić,Counter Attack,21,Barcelona
+640,Barcelona,Pedri,Counter Attack,28,Barcelona
+641,Toledo,Lewandowski,Counter Attack,25,Barcelona
+642,Barcelona,Bellingham,Possession,28,Real Madrid
+643,Valencia,Jude Bellingham,Possession,21,Barcelona
+644,Murcia,Pedri,Possession,21,Real Madrid
+645,Murcia,Pedri,Possession,30,Barcelona
+646,Granada,Vinicius Jr,Possession,24,Barcelona
+647,Valencia,Modrić,Possession,18,Barcelona
+648,Granada,Jude Bellingham,Possession,22,Real Madrid
+649,Alicante,Lewandowski,Counter Attack,25,Barcelona
+650,Girona,Pedri,Possession,23,Barcelona
+651,Zaragoza,Jude Bellingham,Possession,19,Barcelona
+652,Madrid,Jude Bellingham,Possession,26,Barcelona
+653,Girona,Gavi,Possession,22,Barcelona
+654,Malaga,Pedri,Possession,30,Real Madrid
+655,Santander,Gavi,Possession,24,Real Madrid
+656,Girona,Pedri,Counter Attack,24,Real Madrid
+657,Zaragoza,Jude Bellingham,Counter Attack,28,Real Madrid
+658,Valencia,Gavi,Possession,18,Real Madrid
+659,Madrid,Gavi,Possession,19,Real Madrid
+660,Toledo,Vinicius Jr,Counter Attack,22,Real Madrid
+661,Girona,Vinicius Jr,Possession,33,Real Madrid
+662,Barcelona,Pedri,Possession,23,Barcelona
+663,Pamplona,Bellingham,Counter Attack,25,Barcelona
+664,Granada,Bellingham,Possession,28,Barcelona
+665,Valladolid,Gavi,Counter Attack,28,Barcelona
+666,Pamplona,Vinicius Jr,Possession,26,Barcelona
+667,Valencia,Gavi,Possession,22,Barcelona
+668,Girona,Pedri,Counter Attack,33,Real Madrid
+669,Madrid,Gavi,Counter Attack,28,Barcelona
+670,Valladolid,Lewandowski,Possession,18,Barcelona
+671,Girona,Gavi,Possession,27,Barcelona
+672,Madrid,Pedri,Counter Attack,30,Barcelona
+673,Valencia,Bellingham,Possession,29,Real Madrid
+674,Valladolid,Modrić,Counter Attack,22,Barcelona
+675,Pamplona,Gavi,Possession,22,Real Madrid
+676,Seville,Lewandowski,Possession,31,Real Madrid
+677,Bilbao,Vinicius Jr,Possession,20,Barcelona
+678,Malaga,Lewandowski,Counter Attack,23,Barcelona
+679,Santander,Vinicius Jr,Counter Attack,31,Real Madrid
+680,Bilbao,Bellingham,Counter Attack,24,Real Madrid
+681,Malaga,Lewandowski,Counter Attack,24,Real Madrid
+682,Barcelona,Bellingham,Counter Attack,34,Real Madrid
+683,Valladolid,Gavi,Counter Attack,28,Real Madrid
+684,Bilbao,Bellingham,Counter Attack,23,Barcelona
+685,Valladolid,Bellingham,Possession,26,Barcelona
+686,Bilbao,Lewandowski,Counter Attack,29,Barcelona
+687,Malaga,Bellingham,Possession,29,Barcelona
+688,Bilbao,Lewandowski,Possession,32,Real Madrid
+689,Bilbao,Bellingham,Counter Attack,21,Real Madrid
+690,Seville,Gavi,Counter Attack,20,Barcelona
+691,Granada,Vinicius Jr,Counter Attack,25,Real Madrid
+692,Alicante,Lewandowski,Counter Attack,25,Real Madrid
+693,Malaga,Bellingham,Counter Attack,27,Real Madrid
+694,Toledo,Bellingham,Counter Attack,25,Barcelona
+695,Pamplona,Vinicius Jr,Possession,27,Real Madrid
+696,Girona,Bellingham,Possession,22,Barcelona
+697,Pamplona,Lewandowski,Possession,20,Barcelona
+698,Alicante,Gavi,Possession,18,Barcelona
+699,Seville,Modrić,Possession,26,Real Madrid
+700,Seville,Modrić,Possession,18,Barcelona
+701,Bilbao,Vinicius Jr,Counter Attack,29,Real Madrid
+702,Malaga,Jude Bellingham,Counter Attack,21,Barcelona
+703,Valladolid,Lewandowski,Counter Attack,29,Real Madrid
+704,Alicante,Gavi,Counter Attack,29,Real Madrid
+705,Bilbao,Pedri,Counter Attack,23,Barcelona
+706,Valencia,Pedri,Counter Attack,26,Real Madrid
+707,Valladolid,Lewandowski,Counter Attack,26,Real Madrid
+708,Girona,Gavi,Counter Attack,18,Barcelona
+709,Bilbao,Lewandowski,Counter Attack,29,Barcelona
+710,Barcelona,Vinicius Jr,Counter Attack,23,Barcelona
+711,Barcelona,Gavi,Possession,26,Real Madrid
+712,Santander,Gavi,Counter Attack,18,Barcelona
+713,Murcia,Modrić,Possession,26,Barcelona
+714,Toledo,Gavi,Counter Attack,27,Real Madrid
+715,Valladolid,Jude Bellingham,Counter Attack,25,Barcelona
+716,Granada,Gavi,Possession,29,Barcelona
+717,Malaga,Modrić,Counter Attack,27,Real Madrid
+718,Santander,Bellingham,Counter Attack,23,Barcelona
+719,Murcia,Gavi,Possession,22,Barcelona
+720,Girona,Pedri,Counter Attack,27,Real Madrid
+721,Girona,Pedri,Possession,26,Real Madrid
+722,Pamplona,Gavi,Possession,31,Real Madrid
+723,Madrid,Modrić,Possession,29,Real Madrid
+724,Madrid,Jude Bellingham,Possession,27,Real Madrid
+725,Valencia,Vinicius Jr,Possession,24,Real Madrid
+726,Seville,Jude Bellingham,Possession,24,Real Madrid
+727,Valencia,Lewandowski,Counter Attack,23,Barcelona
+728,Alicante,Modrić,Counter Attack,18,Real Madrid
+729,Granada,Bellingham,Possession,28,Real Madrid
+730,Bilbao,Modrić,Possession,24,Barcelona
+731,Murcia,Bellingham,Possession,28,Barcelona
+732,Bilbao,Modrić,Possession,26,Barcelona
+733,Barcelona,Lewandowski,Possession,20,Real Madrid
+734,Bilbao,Jude Bellingham,Possession,24,Barcelona
+735,Malaga,Jude Bellingham,Counter Attack,21,Barcelona
+736,Madrid,Bellingham,Counter Attack,24,Barcelona
+737,Malaga,Lewandowski,Counter Attack,27,Barcelona
+738,Girona,Pedri,Counter Attack,26,Real Madrid
+739,Toledo,Lewandowski,Possession,26,Barcelona
+740,Murcia,Bellingham,Counter Attack,26,Barcelona
+741,Valladolid,Gavi,Counter Attack,19,Real Madrid
+742,Granada,Lewandowski,Counter Attack,29,Barcelona
+743,Valladolid,Bellingham,Possession,18,Real Madrid
+744,Toledo,Lewandowski,Counter Attack,21,Real Madrid
+745,Toledo,Gavi,Counter Attack,24,Barcelona
+746,Granada,Bellingham,Counter Attack,22,Real Madrid
+747,Malaga,Gavi,Possession,27,Real Madrid
+748,Granada,Jude Bellingham,Possession,21,Barcelona
+749,Valladolid,Lewandowski,Possession,24,Barcelona
+750,Barcelona,Gavi,Possession,23,Real Madrid
+751,Bilbao,Vinicius Jr,Possession,29,Barcelona
+752,Malaga,Bellingham,Counter Attack,27,Real Madrid
+753,Alicante,Bellingham,Counter Attack,25,Real Madrid
+754,Girona,Lewandowski,Counter Attack,26,Real Madrid
+755,Zaragoza,Vinicius Jr,Counter Attack,28,Barcelona
+756,Alicante,Lewandowski,Possession,29,Barcelona
+757,Malaga,Jude Bellingham,Possession,22,Real Madrid
+758,Murcia,Vinicius Jr,Counter Attack,27,Real Madrid
+759,Toledo,Vinicius Jr,Counter Attack,29,Barcelona
+760,Granada,Vinicius Jr,Possession,27,Real Madrid
+761,Valladolid,Lewandowski,Counter Attack,27,Barcelona
+762,Barcelona,Jude Bellingham,Counter Attack,20,Barcelona
+763,Santander,Pedri,Counter Attack,25,Barcelona
+764,Valladolid,Modrić,Counter Attack,27,Real Madrid
+765,Seville,Jude Bellingham,Possession,22,Barcelona
+766,Malaga,Vinicius Jr,Possession,25,Barcelona
+767,Barcelona,Pedri,Possession,21,Real Madrid
+768,Granada,Modrić,Counter Attack,23,Barcelona
+769,Seville,Lewandowski,Possession,25,Barcelona
+770,Valladolid,Lewandowski,Possession,23,Barcelona
+771,Valencia,Gavi,Possession,23,Real Madrid
+772,Granada,Modrić,Possession,25,Real Madrid
+773,Madrid,Modrić,Possession,25,Barcelona
+774,Santander,Lewandowski,Counter Attack,27,Real Madrid
+775,Bilbao,Gavi,Counter Attack,27,Barcelona
+776,Toledo,Jude Bellingham,Counter Attack,26,Real Madrid
+777,Malaga,Jude Bellingham,Counter Attack,22,Real Madrid
+778,Granada,Lewandowski,Possession,27,Real Madrid
+779,Valladolid,Bellingham,Possession,27,Real Madrid
+780,Zaragoza,Bellingham,Possession,24,Real Madrid
+781,Seville,Pedri,Possession,35,Real Madrid
+782,Murcia,Bellingham,Counter Attack,35,Real Madrid
+783,Barcelona,Vinicius Jr,Possession,25,Real Madrid
+784,Barcelona,Bellingham,Possession,21,Barcelona
+785,Girona,Bellingham,Possession,23,Barcelona
+786,Girona,Modrić,Possession,23,Real Madrid
+787,Granada,Lewandowski,Counter Attack,20,Real Madrid
+788,Valencia,Vinicius Jr,Possession,25,Barcelona
+789,Santander,Modrić,Possession,25,Barcelona
+790,Girona,Vinicius Jr,Possession,27,Real Madrid
+791,Madrid,Gavi,Counter Attack,26,Real Madrid
+792,Madrid,Pedri,Possession,19,Barcelona
+793,Pamplona,Vinicius Jr,Counter Attack,23,Real Madrid
+794,Girona,Lewandowski,Counter Attack,24,Barcelona
+795,Malaga,Bellingham,Possession,29,Barcelona
+796,Valencia,Pedri,Counter Attack,24,Real Madrid
+797,Malaga,Vinicius Jr,Possession,23,Real Madrid
+798,Zaragoza,Pedri,Possession,29,Barcelona
+799,Zaragoza,Bellingham,Possession,20,Barcelona
+800,Toledo,Modrić,Possession,30,Real Madrid
+801,Murcia,Jude Bellingham,Counter Attack,28,Real Madrid
+802,Toledo,Bellingham,Possession,23,Barcelona
+803,Pamplona,Jude Bellingham,Possession,25,Barcelona
+804,Madrid,Jude Bellingham,Possession,27,Barcelona
+805,Valencia,Vinicius Jr,Counter Attack,28,Barcelona
+806,Barcelona,Gavi,Possession,21,Real Madrid
+807,Alicante,Lewandowski,Counter Attack,29,Barcelona
+808,Alicante,Gavi,Possession,24,Barcelona
+809,Girona,Gavi,Possession,28,Barcelona
+810,Granada,Bellingham,Possession,22,Real Madrid
+811,Zaragoza,Modrić,Possession,29,Real Madrid
+812,Seville,Vinicius Jr,Possession,25,Real Madrid
+813,Madrid,Jude Bellingham,Counter Attack,23,Real Madrid
+814,Valladolid,Pedri,Possession,32,Barcelona
+815,Alicante,Modrić,Counter Attack,32,Barcelona
+816,Valencia,Bellingham,Counter Attack,25,Real Madrid
+817,Murcia,Lewandowski,Counter Attack,28,Barcelona
+818,Zaragoza,Bellingham,Counter Attack,27,Real Madrid
+819,Murcia,Vinicius Jr,Possession,26,Barcelona
+820,Barcelona,Bellingham,Counter Attack,30,Barcelona
+821,Toledo,Vinicius Jr,Counter Attack,24,Real Madrid
+822,Madrid,Pedri,Counter Attack,26,Barcelona
+823,Madrid,Pedri,Counter Attack,26,Real Madrid
+824,Granada,Modrić,Possession,31,Barcelona
+825,Girona,Jude Bellingham,Counter Attack,24,Real Madrid
+826,Valencia,Gavi,Possession,25,Barcelona
+827,Valladolid,Gavi,Counter Attack,21,Real Madrid
+828,Pamplona,Jude Bellingham,Possession,25,Real Madrid
+829,Girona,Jude Bellingham,Possession,22,Real Madrid
+830,Girona,Pedri,Possession,25,Barcelona
+831,Madrid,Lewandowski,Possession,18,Real Madrid
+832,Madrid,Bellingham,Counter Attack,20,Real Madrid
+833,Santander,Modrić,Counter Attack,26,Barcelona
+834,Bilbao,Gavi,Possession,25,Barcelona
+835,Bilbao,Jude Bellingham,Possession,23,Real Madrid
+836,Toledo,Lewandowski,Counter Attack,23,Barcelona
+837,Malaga,Modrić,Possession,27,Barcelona
+838,Malaga,Vinicius Jr,Counter Attack,27,Real Madrid
+839,Malaga,Jude Bellingham,Counter Attack,30,Real Madrid
+840,Santander,Pedri,Possession,28,Barcelona
+841,Granada,Gavi,Possession,32,Real Madrid
+842,Santander,Pedri,Possession,25,Real Madrid
+843,Santander,Lewandowski,Counter Attack,20,Barcelona
+844,Santander,Pedri,Counter Attack,25,Barcelona
+845,Barcelona,Modrić,Counter Attack,30,Real Madrid
+846,Alicante,Vinicius Jr,Counter Attack,24,Real Madrid
+847,Toledo,Jude Bellingham,Counter Attack,34,Barcelona
+848,Malaga,Gavi,Possession,21,Real Madrid
+849,Malaga,Vinicius Jr,Possession,26,Real Madrid
+850,Girona,Lewandowski,Counter Attack,32,Barcelona
+851,Seville,Lewandowski,Counter Attack,24,Barcelona
+852,Girona,Modrić,Counter Attack,23,Barcelona
+853,Seville,Vinicius Jr,Counter Attack,32,Real Madrid
+854,Murcia,Lewandowski,Counter Attack,34,Barcelona
+855,Valladolid,Lewandowski,Counter Attack,31,Barcelona
+856,Bilbao,Modrić,Counter Attack,31,Real Madrid
+857,Valladolid,Bellingham,Possession,29,Real Madrid
+858,Bilbao,Modrić,Counter Attack,24,Barcelona
+859,Alicante,Modrić,Counter Attack,29,Barcelona
+860,Seville,Pedri,Possession,19,Barcelona
+861,Zaragoza,Jude Bellingham,Possession,22,Real Madrid
+862,Seville,Gavi,Counter Attack,27,Real Madrid
+863,Toledo,Modrić,Counter Attack,23,Real Madrid
+864,Seville,Lewandowski,Possession,24,Real Madrid
+865,Granada,Pedri,Counter Attack,20,Barcelona
+866,Zaragoza,Gavi,Possession,26,Real Madrid
+867,Santander,Bellingham,Counter Attack,30,Barcelona
+868,Valencia,Bellingham,Possession,25,Barcelona
+869,Santander,Modrić,Counter Attack,27,Real Madrid
+870,Bilbao,Modrić,Counter Attack,28,Barcelona
+871,Madrid,Gavi,Possession,23,Real Madrid
+872,Alicante,Gavi,Counter Attack,18,Real Madrid
+873,Madrid,Vinicius Jr,Counter Attack,18,Barcelona
+874,Valladolid,Bellingham,Possession,18,Real Madrid
+875,Alicante,Pedri,Counter Attack,31,Real Madrid
+876,Granada,Lewandowski,Counter Attack,26,Barcelona
+877,Zaragoza,Pedri,Possession,24,Barcelona
+878,Valencia,Bellingham,Counter Attack,28,Barcelona
+879,Zaragoza,Pedri,Counter Attack,24,Barcelona
+880,Alicante,Bellingham,Possession,19,Barcelona
+881,Madrid,Lewandowski,Possession,30,Barcelona
+882,Seville,Bellingham,Counter Attack,24,Barcelona
+883,Murcia,Pedri,Possession,28,Barcelona
+884,Girona,Pedri,Possession,26,Real Madrid
+885,Valencia,Vinicius Jr,Counter Attack,22,Real Madrid
+886,Bilbao,Jude Bellingham,Counter Attack,26,Barcelona
+887,Zaragoza,Jude Bellingham,Counter Attack,22,Barcelona
+888,Malaga,Pedri,Counter Attack,23,Barcelona
+889,Malaga,Vinicius Jr,Counter Attack,26,Barcelona
+890,Seville,Lewandowski,Possession,28,Real Madrid
+891,Malaga,Gavi,Possession,22,Real Madrid
+892,Granada,Lewandowski,Counter Attack,23,Barcelona
+893,Malaga,Modrić,Possession,19,Barcelona
+894,Toledo,Modrić,Possession,21,Barcelona
+895,Barcelona,Pedri,Possession,31,Barcelona
+896,Barcelona,Vinicius Jr,Counter Attack,24,Real Madrid
+897,Valencia,Bellingham,Possession,18,Real Madrid
+898,Malaga,Lewandowski,Possession,20,Real Madrid
+899,Toledo,Vinicius Jr,Counter Attack,21,Barcelona
+900,Girona,Vinicius Jr,Counter Attack,29,Barcelona
+901,Girona,Jude Bellingham,Counter Attack,21,Real Madrid
+902,Bilbao,Bellingham,Possession,27,Real Madrid
+903,Madrid,Lewandowski,Possession,24,Barcelona
+904,Toledo,Bellingham,Counter Attack,20,Barcelona
+905,Valencia,Vinicius Jr,Counter Attack,26,Real Madrid
+906,Pamplona,Lewandowski,Possession,33,Barcelona
+907,Madrid,Lewandowski,Possession,24,Barcelona
+908,Bilbao,Pedri,Counter Attack,25,Barcelona
+909,Malaga,Vinicius Jr,Possession,26,Real Madrid
+910,Pamplona,Gavi,Possession,27,Barcelona
+911,Madrid,Jude Bellingham,Possession,22,Real Madrid
+912,Santander,Lewandowski,Possession,21,Real Madrid
+913,Malaga,Pedri,Possession,18,Barcelona
+914,Valencia,Jude Bellingham,Possession,27,Real Madrid
+915,Pamplona,Pedri,Counter Attack,25,Real Madrid
+916,Seville,Modrić,Possession,30,Barcelona
+917,Murcia,Bellingham,Possession,24,Barcelona
+918,Seville,Pedri,Possession,25,Barcelona
+919,Murcia,Bellingham,Possession,32,Real Madrid
+920,Granada,Bellingham,Possession,24,Real Madrid
+921,Bilbao,Lewandowski,Possession,30,Real Madrid
+922,Pamplona,Jude Bellingham,Possession,18,Barcelona
+923,Malaga,Vinicius Jr,Counter Attack,22,Real Madrid
+924,Toledo,Modrić,Possession,18,Barcelona
+925,Toledo,Jude Bellingham,Counter Attack,22,Barcelona
+926,Bilbao,Vinicius Jr,Counter Attack,32,Real Madrid
+927,Malaga,Modrić,Counter Attack,22,Barcelona
+928,Pamplona,Pedri,Counter Attack,33,Barcelona
+929,Malaga,Pedri,Possession,31,Real Madrid
+930,Bilbao,Jude Bellingham,Counter Attack,30,Barcelona
+931,Malaga,Pedri,Counter Attack,22,Real Madrid
+932,Valencia,Bellingham,Counter Attack,27,Real Madrid
+933,Toledo,Pedri,Possession,26,Real Madrid
+934,Santander,Jude Bellingham,Possession,38,Real Madrid
+935,Valladolid,Bellingham,Possession,25,Real Madrid
+936,Madrid,Modrić,Possession,21,Real Madrid
+937,Santander,Lewandowski,Possession,25,Real Madrid
+938,Madrid,Gavi,Counter Attack,23,Real Madrid
+939,Pamplona,Gavi,Counter Attack,22,Real Madrid
+940,Valladolid,Jude Bellingham,Counter Attack,22,Real Madrid
+941,Valladolid,Pedri,Counter Attack,23,Real Madrid
+942,Girona,Vinicius Jr,Possession,26,Real Madrid
+943,Toledo,Pedri,Possession,28,Real Madrid
+944,Bilbao,Pedri,Possession,26,Real Madrid
+945,Santander,Vinicius Jr,Possession,23,Barcelona
+946,Barcelona,Pedri,Counter Attack,18,Barcelona
+947,Santander,Modrić,Possession,23,Barcelona
+948,Madrid,Bellingham,Counter Attack,23,Real Madrid
+949,Valladolid,Jude Bellingham,Possession,33,Real Madrid
+950,Alicante,Bellingham,Counter Attack,22,Real Madrid
+951,Seville,Bellingham,Possession,23,Barcelona
+952,Alicante,Lewandowski,Counter Attack,27,Barcelona
+953,Toledo,Modrić,Counter Attack,18,Real Madrid
+954,Granada,Gavi,Possession,28,Barcelona
+955,Seville,Lewandowski,Counter Attack,27,Barcelona
+956,Madrid,Jude Bellingham,Counter Attack,23,Real Madrid
+957,Girona,Vinicius Jr,Possession,29,Barcelona
+958,Granada,Modrić,Possession,23,Real Madrid
+959,Valladolid,Bellingham,Counter Attack,28,Barcelona
+960,Santander,Modrić,Counter Attack,27,Real Madrid
+961,Valladolid,Modrić,Possession,20,Barcelona
+962,Barcelona,Modrić,Possession,24,Real Madrid
+963,Seville,Gavi,Possession,26,Real Madrid
+964,Madrid,Lewandowski,Counter Attack,22,Barcelona
+965,Toledo,Pedri,Counter Attack,22,Real Madrid
+966,Girona,Modrić,Possession,27,Barcelona
+967,Valladolid,Modrić,Counter Attack,21,Real Madrid
+968,Malaga,Modrić,Possession,27,Real Madrid
+969,Madrid,Modrić,Possession,25,Real Madrid
+970,Alicante,Jude Bellingham,Possession,29,Barcelona
+971,Girona,Bellingham,Counter Attack,26,Barcelona
+972,Madrid,Lewandowski,Counter Attack,30,Real Madrid
+973,Bilbao,Bellingham,Possession,31,Real Madrid
+974,Granada,Vinicius Jr,Counter Attack,25,Real Madrid
+975,Toledo,Gavi,Possession,28,Real Madrid
+976,Granada,Jude Bellingham,Counter Attack,34,Real Madrid
+977,Seville,Modrić,Counter Attack,23,Barcelona
+978,Valladolid,Jude Bellingham,Possession,30,Barcelona
+979,Alicante,Modrić,Counter Attack,27,Real Madrid
+980,Madrid,Modrić,Counter Attack,23,Barcelona
+981,Barcelona,Bellingham,Counter Attack,27,Barcelona
+982,Alicante,Jude Bellingham,Possession,24,Barcelona
+983,Girona,Jude Bellingham,Possession,28,Barcelona
+984,Seville,Jude Bellingham,Counter Attack,33,Real Madrid
+985,Murcia,Vinicius Jr,Counter Attack,26,Barcelona
+986,Toledo,Gavi,Counter Attack,32,Barcelona
+987,Valladolid,Lewandowski,Possession,26,Real Madrid
+988,Toledo,Pedri,Counter Attack,30,Real Madrid
+989,Santander,Pedri,Counter Attack,26,Real Madrid
+990,Murcia,Vinicius Jr,Possession,20,Barcelona
+991,Zaragoza,Gavi,Counter Attack,27,Real Madrid
+992,Toledo,Jude Bellingham,Possession,26,Barcelona
+993,Murcia,Vinicius Jr,Possession,34,Barcelona
+994,Alicante,Vinicius Jr,Possession,33,Real Madrid
+995,Bilbao,Vinicius Jr,Counter Attack,29,Real Madrid
+996,Bilbao,Bellingham,Counter Attack,28,Real Madrid
+997,Malaga,Gavi,Counter Attack,27,Barcelona
+998,Granada,Gavi,Possession,25,Real Madrid
+999,Murcia,Bellingham,Possession,26,Barcelona
+1000,Alicante,Vinicius Jr,Counter Attack,24,Barcelona
