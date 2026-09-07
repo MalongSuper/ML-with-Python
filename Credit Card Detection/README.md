@@ -1,17 +1,25 @@
-# Create virtual environment
-python3 -m venv venv
+# Credit Card Fraud Detection
 
-# Activate (macOS / Linux)
-source venv/bin/activate
+This project applies **Machine Learning models** to detect fraudulent credit card transactions.
 
-# Activate (Windows)
-venv\Scripts\activate
+## What It Covers
 
-# Run Python code
-python your_script.py
+* Data preprocessing and feature scaling
+* Handling imbalanced data
+* Training multiple classification models
+* Model evaluation and comparison
+* Performance metrics:
 
-# Or open Python interactive shell
-python
+  * Accuracy
+  * Precision
+  * Recall
+  * F1-Score
 
-# Deactivate when done
-deactivate
+## Models
+
+* K-Nearest Neighbors (KNN)
+* Decision Tree
+* Random Forest
+* Gradient Boosting
+
+The results of each model are compared to determine which approach performs best for **fraud detection**, with particular attention to precision, recall, and F1-score.
