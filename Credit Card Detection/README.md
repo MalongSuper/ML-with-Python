@@ -2,6 +2,8 @@
 
 This project applies **Machine Learning models** to detect fraudulent credit card transactions.
 
+Google Drive link for the dataset: https://drive.google.com/file/d/17uxDvlv_CgoOryfkEnzUaQAug5J48IRz/view?usp=sharing 
+
 ## What It Covers
 
 * Data preprocessing and feature scaling
